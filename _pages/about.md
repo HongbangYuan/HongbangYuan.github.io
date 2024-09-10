@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [CogKTR: A Knowledge-Enhanced Text Representation Toolkit for Natural Language Understanding](https://aclanthology.org/2022.emnlp-demos.1/), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Yuyang Zhou, Pengfei Cao, Yubo Chen, Zhipeng Xue, Kang Liu, Jun Zhao, **EMNLP 2022 Demos**
 
-- [CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge](https://aclanthology.org/2022.acl-demo.16/#), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan***, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao, **ACL 2022 Demos**
+- [CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge](https://aclanthology.org/2022.acl-demo.16/#), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao, **ACL 2022 Demos**
 
 
 
