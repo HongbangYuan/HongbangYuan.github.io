@@ -48,11 +48,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://www.arxiv.org/abs/2408.10682), **Hongbang Yuan***, Zhuoran Jin*, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **Arxiv**
+- [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://www.arxiv.org/abs/2408.10682), **Hongbang Yuan***, Zhuoran Jin*, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **Arxiv 2024.08**
 
-- [Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models](https://arxiv.org/pdf/2406.12416), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **Arxiv**
+- [Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models](https://arxiv.org/pdf/2406.12416), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **Arxiv 2024.06**
 
-- [Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models](https://arxiv.org/pdf/2402.19103), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **Arxiv**
+- [Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models](https://arxiv.org/pdf/2402.19103), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **Arxiv 2024.02**
 
 - Mitigating Multi-Hop Hallucination in Large Language Models with Non-Authoritative Knowledge Sources, **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **CCKS-IJCKG 2024**
 
@@ -65,9 +65,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 
-- *2019* National Scholarship
+- *2019* **National Scholarship**
 - *2019* Outstanding Student of SDU (Top 10%) 
-- *2020* National Scholarship 
+- *2020* **National Scholarship**
 - *2020* Outstanding Student of SDU (Top 10%) 
 - *2021* Excellent Student Scholarship of UCAS      
 - *2023*  Merit Student of UCAS
