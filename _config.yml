@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongbang Yuan (苑红榜)"
   avatar           : "images/my_image-512x512.jpg"
-  bio              : "Email: hongbang.yuan(at)nlpr(dot)ia(dot)ac(dot)cn"
+  bio              : "Email: hongbang.yuan(at) nlpr(dot)ia(dot)ac(dot)cn"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
