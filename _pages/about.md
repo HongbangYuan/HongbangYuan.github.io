@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models](https://arxiv.org/pdf/2406.12416), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **Arxiv 2024.06**
 
-- [Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models](https://arxiv.org/pdf/2402.19103), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **Arxiv 2024.02**
+- [Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models](https://arxiv.org/pdf/2402.19103), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **EMNLP 2024**
 
 - Mitigating Multi-Hop Hallucination in Large Language Models with Non-Authoritative Knowledge Sources, **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **CCKS-IJCKG 2024**
 
