@@ -48,17 +48,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://www.arxiv.org/abs/2408.10682), **Hongbang Yuan***, Zhuoran Jin\*, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **Arxiv 2024.08**
+- Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models, [\[pdf\]](https://www.arxiv.org/abs/2408.10682) [\[code\]](https://github.com/HongbangYuan/RobustUnlearning), **Hongbang Yuan***, Zhuoran Jin\*, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **AAAI 2025**
 
-- [Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models](https://arxiv.org/pdf/2406.12416), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **Arxiv 2024.06**
+- Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models, [\[pdf\]](https://aclanthology.org/2025.findings-naacl.354.pdf) [\[code\]](https://github.com/HongbangYuan/APEFT), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **NAACL-2025 Findings**
 
-- [Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models](https://arxiv.org/pdf/2402.19103), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **EMNLP 2024**
+- Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models, [\[pdf\]](https://aclanthology.org/2024.emnlp-main.155.pdf) [\[code\]](https://github.com/HongbangYuan/FAITH), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **EMNLP 2024**
 
-- Mitigating Multi-Hop Hallucination in Large Language Models with Non-Authoritative Knowledge Sources, **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **CCKS-IJCKG 2024**
+- Mitigating Multi-Hop Hallucination in Large Language Models with Non-Authoritative Knowledge Sources,  [\[pdf\]](https://link.springer.com/chapter/10.1007/978-981-96-1809-5_17), **Hongbang Yuan**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **CCKS-IJCKG 2024**
 
-- [CogKTR: A Knowledge-Enhanced Text Representation Toolkit for Natural Language Understanding](https://aclanthology.org/2022.emnlp-demos.1/), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Yuyang Zhou, Pengfei Cao, Yubo Chen, Zhipeng Xue, Kang Liu, Jun Zhao, **EMNLP 2022 Demos**
+- CogKTR: A Knowledge-Enhanced Text Representation Toolkit for Natural Language Understanding [\[pdf\]](https://aclanthology.org/2022.emnlp-demos.1/) [\[code\]](https://github.com/CogNLP/CogKTR), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Yuyang Zhou, Pengfei Cao, Yubo Chen, Zhipeng Xue, Kang Liu, Jun Zhao, **EMNLP 2022 Demos**
 
-- [CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge](https://aclanthology.org/2022.acl-demo.16/#), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao, **ACL 2022 Demos**
+- CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge [\[pdf\]](https://aclanthology.org/2022.acl-demo.16/#) [\[code\]](https://github.com/jinzhuoran/CogKGE/), Zhuoran Jin\*, Tianyi Men\*, **Hongbang Yuan**\*, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao, **ACL 2022 Demos**
 
 
 
