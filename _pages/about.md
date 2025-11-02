@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Hongbang Yuan, a master student at the Laboratory of Language and Knowledge Computing, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/), advised by Prof. [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and Prof. [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). My research interests lie in natural language processing, particularly in the hallucination, factuality, and trustworthiness of large language models. 
+I am currently a PhD student at [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), under the supervision of Prof [Yixin Cao](https://taominer.github.io/). Before that, I obtained my M.S degree at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/), where I was advised by Prof. [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and Prof. [Jun Zhao](https://people.ucas.ac.cn/~zhaojun).
+My research interests lie in natural language processing, with a focus on developing agentic large language models.
+ <!-- My research interests lie in natural language processing, particularly in the hallucination, factuality, and trustworthiness of large language models.  -->
 
 
 <!-- 
@@ -48,6 +50,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+ Find my up-to-date publication list in [Google Scholar](https://scholar.google.com/citations?user=4CDTRoIAAAAJ)!
+
+- Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/HongbangYuan/OmniReward), Zhuoran Jin\*, **Hongbang Yuan**\*, Kejian Zhu\*, Jiachun Li, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Preprints 
+
 - Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models, [\[pdf\]](https://www.arxiv.org/abs/2408.10682) [\[code\]](https://github.com/HongbangYuan/RobustUnlearning), **Hongbang Yuan***, Zhuoran Jin\*, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **AAAI 2025**
 
 - Beyond Under-Alignment: Atomic Preference Enhanced Factuality Tuning for Large Language Models, [\[pdf\]](https://aclanthology.org/2025.findings-naacl.354.pdf) [\[code\]](https://github.com/HongbangYuan/APEFT), **Hongbang Yuan**, Yubo Chen, Pengfei Cao, Zhuoran Jin, Kang Liu, Jun Zhao, **NAACL-2025 Findings**
@@ -65,17 +71,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 
+- *2024*  Merit Student of UCAS
+- *2023*  Merit Student of UCAS
+- *2021* Excellent Student Scholarship of UCAS      
+- *2020* **National Scholarship**
+- *2020* Outstanding Student of SDU (Top 10%) 
 - *2019* **National Scholarship**
+- *2019* Outstanding Student of SDU (Top 10%)
+
+<!-- - *2019* **National Scholarship**
 - *2019* Outstanding Student of SDU (Top 10%) 
 - *2020* **National Scholarship**
 - *2020* Outstanding Student of SDU (Top 10%) 
 - *2021* Excellent Student Scholarship of UCAS      
 - *2023*  Merit Student of UCAS
-- *2024*  Merit Student of UCAS
+- *2024*  Merit Student of UCAS -->
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Institute of Automation, Chinese Academy of Sciences, Pattern Recognition and Intelligent System, Beijing, Master.
+- *2025.09 - now*, College of Computer Science and Artificial Intelligence, Fudan University, Shanghai, PhD.
+- *2022.09 - 2025.06*, Institute of Automation, Chinese Academy of Sciences, Pattern Recognition and Intelligent System, Beijing, Master.
 - *2018.09 - 2022.06*, Shandong University, Automation (Brilliant Engineer Education Program), Jinan, Shandong, Bachelor.
 
 <!-- # 💬 Invited Talks
