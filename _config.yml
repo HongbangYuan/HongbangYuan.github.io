@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongbang Yuan"
-description              : "Master student at Institute of Automation, Chinese Academy of Sciences"
+description              : "PhD Student at College of Computer Science and Artificial Intelligence, Fudan University"
 repository               : "HongbangYuan/HongbangYuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongbang Yuan (苑红榜)"
   avatar           : "images/my_image-512x512.jpg"
-  bio              : "Email: hongbang.yuan(at) nlpr(dot)ia(dot)ac(dot)cn"
-  location         : "Beijing, China"
+  bio              : "Email: hbyuan25(at)m(dot)fudan(dot)edu(dot)cn"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4CDTRoIAAAAJ&hl=en"
-  email            : "hongbang.yuan(at)nlpr(dot)ia(dot)ac(dot)cn"
+  email            : "hbyuan25(at)m(dot)fudan(dot)edu(dot)cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
