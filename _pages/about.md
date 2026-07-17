@@ -19,7 +19,9 @@ redirect_from:
 
 I am currently a PhD student at [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), under the supervision of Prof [Yixin Cao](https://taominer.github.io/). Before that, I obtained my M.S degree at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/), where I was advised by Prof. [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and Prof. [Jun Zhao](https://people.ucas.ac.cn/~zhaojun).
 I also work closely with Dr. [Zhuoran Jin](https://jinzhuoran.github.io/).
-My research interests lie in natural language processing, with a focus on developing agentic large language models.
+My research aims to build knowledgeable, fully autonomous intelligent agents. Specifically, my work focus on **knowledge for agents*, enabling agents to continually acquire, maintain, and leverage knowledge through interaction with real-world environments.
+
+<!-- My research interests lie in natural language processing, with a focus on developing agentic large language models. -->
  <!-- My research interests lie in natural language processing, particularly in the hallucination, factuality, and trustworthiness of large language models.  -->
 <!-- Currently I am interested in building continuously evolved advanced agent systems  -->
 
