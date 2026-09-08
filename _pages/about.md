@@ -56,7 +56,9 @@ My research interest includes neural machine translation and computer vision. I 
 
  Find my up-to-date publication list in [Google Scholar](https://scholar.google.com/citations?user=4CDTRoIAAAAJ)!
 
-- Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks, **Hongbang Yuan**, Zhuoran Jin, Yixin Cao, Arxiv
+- 🔥 Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks, **Hongbang Yuan**, Zhuoran Jin, Yixin Cao,[\[pdf\]](https://github.com/HongbangYuan/EnvAsScaffold) [\[code\]](https://github.com/HongbangYuan/EnvAsScaffold), Preprint
+
+- 🔥 Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application, Jiachun Li, Zhuoran Jin, Tianyi Men, Yupu Hao, Kejian Zhu, Lingshuai Wang, Dongqi Huang, Longxiang Wang, Shengjia Hua, Lu Wang, Jinshan Gao, **Hongbang Yuan**, Ruilin Xu, Kang Liu, Jun Zhao, [\[pdf\]](https://arxiv.org/pdf/2606.12191), Preprint
 
 - Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/HongbangYuan/OmniReward), Zhuoran Jin\*, **Hongbang Yuan**\*, Kejian Zhu\*, Jiachun Li, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao,  **ICLR 2026 Oral (1%)** 
 
